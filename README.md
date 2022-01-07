@@ -1,4 +1,6 @@
-## Hey There! I'm Igor! 🚀
+<div align="center">
+<p>Estudante de desenvolvimento web na Trybe! 🚀</p>
+</div>
 <div align="center">
   <a href="https://github.com/IgorHLeal/IgorHLeal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorHLeal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
