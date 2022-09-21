@@ -29,8 +29,14 @@ Espero poder transformar vidas através disso!
   <img align="center" alt="Igor-React" height="40" width="40" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"">
   <img align="center" alt="Igor-Jest" height="40" width="40" paddmargining="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="Igor-MySQL" height="40" width="40" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Igor-MySQL" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Igor-Docker" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Igor-Node.js" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Igor-Heroku" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+<img align="center" alt="Igor-TypeScript" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" alt="Igor-Express" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+          
 </div>
+          
 
 ##
 
