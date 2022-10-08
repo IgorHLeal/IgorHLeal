@@ -41,7 +41,7 @@ Espero poder transformar vidas através disso!
 ##
 
 <div align="center">
-  <a href="https://github.com/IgorHLeal/IgorHLeal">
+  <a href="https://github.com/IgorHLeal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorHLeal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorHLeal&layout=compact&langs_count=7&theme=dark"/>
 </div>
