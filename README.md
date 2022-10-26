@@ -21,7 +21,6 @@ Espero poder transformar vidas através disso!
 
 <h3>Languages and Tools:</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Igor-Git" height="40" width="40" margin="20px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png">
   <img align="center" alt="Igor-Js" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-HTML" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,9 +30,7 @@ Espero poder transformar vidas através disso!
   <img align="center" alt="Igor-MySQL" height="40" width="40" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Igor-Docker" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Igor-Node.js" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Igor-Heroku" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 <img align="center" alt="Igor-TypeScript" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="center" alt="Igor-Express" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
  <img align="center" alt="Igor-MongoDB" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
           
           
