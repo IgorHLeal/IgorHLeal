@@ -11,7 +11,7 @@ Espero poder transformar vidas através disso!
  
 ##
 
-<div>
+<div align="center">
   <h3>Connect with me:</h3>
   <a href = "mailto:igorhenriqueleal3@@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/igor-leal-606209136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -19,19 +19,21 @@ Espero poder transformar vidas através disso!
 
 ##
 
-<h3>Languages and Tools:</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Igor-Js" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Igor-HTML" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Igor-CSS" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Igor-React" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Igor-Redux" height="40" width="40" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"">
-  <img align="center" alt="Igor-Jest" height="40" width="40" paddmargining="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Igor-MySQL" height="40" width="40" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Igor-Docker" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Igor-Node.js" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Igor-TypeScript" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- <img align="center" alt="Igor-MongoDB" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<div align="center">
+ <h3>Languages and Tools:</h3>
+ <div style="display: inline_block"><br>
+   <img align="center" alt="Igor-Js" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Igor-HTML" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Igor-CSS" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Igor-React" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Igor-Redux" height="40" width="40" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"">
+   <img align="center" alt="Igor-Jest" height="40" width="40" paddmargining="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+   <img align="center" alt="Igor-MySQL" height="40" width="40" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+   <img align="center" alt="Igor-Docker" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+   <img align="center" alt="Igor-Node.js" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img align="center" alt="Igor-TypeScript" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Igor-MongoDB" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</div>
           
           
 </div>
