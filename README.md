@@ -22,17 +22,20 @@ Espero poder transformar vidas através disso!
 <div align="center">
  <h3>Languages and Tools:</h3>
  <div style="display: inline_block"><br>
-   <img align="center" alt="Igor-Js" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Igor-HTML" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Igor-CSS" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Igor-React" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Igor-Redux" height="40" width="40" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"">
-   <img align="center" alt="Igor-Jest" height="40" width="40" paddmargining="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-   <img align="center" alt="Igor-MySQL" height="40" width="40" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-   <img align="center" alt="Igor-Docker" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-   <img align="center" alt="Igor-Node.js" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img align="center" alt="Igor-TypeScript" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Igor-MongoDB" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+   <img align="center" alt="dotnet" height="45" width="45" margin="20px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+   <img align="center" alt="csharp" height="45" width="45" margin="20px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+   <img align="center" alt="node.js" height="45" width="45" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img align="center" alt="javascript" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="html" height="43" width="43" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="css" height="43" width="43" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="typeScript" height="40" width="40" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img align="center" alt="react" height="40" width="40" margin="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="docker" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+   <img align="center" alt="sqlserver" height="50" width="50" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+   <img align="center" alt="mysql" height="40" width="40" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+   <img align="center" alt="mongodb" height="45" width="45" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
           
           
